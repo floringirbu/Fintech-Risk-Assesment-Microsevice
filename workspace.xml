@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dc23e3e-fb75-4239-93a5-bb616a4073db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/RiskEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/TradingEngineApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/TradingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/entity/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tradingengine/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tradingengine/TradingEngineApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tradingengine/TradingServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Project 101" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "floringirbu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/floringirbu/Fintech-Risk-Assesment-Microsevice.git",
+    "accountId": "dbf05fa9-28a8-4585-8500-46fd82e495bd"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.0125164476288178" />
+      <entry key="MS500" value="4.712262093373051" />
+      <entry key="S2" value="9.515861572149127" />
+      <entry key="S5" value="11.869479338808201" />
+      <entry key="S10" value="12.867794461521306" />
+      <entry key="S30" value="13.606543506270636" />
+      <entry key="S60" value="13.801186280068372" />
+      <entry key="M2" value="13.900218172740326" />
+      <entry key="M5" value="14.152012822056227" />
+      <entry key="M10" value="16.306979039219215" />
+      <entry key="M15" value="19.75720974561008" />
+      <entry key="M30" value="29.46875659015619" />
+      <entry key="H1" value="40.309087295266345" />
+      <entry key="H2" value="48.665933657118174" />
+      <entry key="H4" value="53.89761452258103" />
+      <entry key="D1" value="58.9161755069945" />
+      <entry key="W1" value="59.843443731772794" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.2644215591904642E-227" />
+      <entry key="S10" value="3.555870581433557E-114" />
+      <entry key="S30" value="1.5263307322327333E-38" />
+      <entry key="S60" value="1.2354475837657922E-19" />
+      <entry key="M2" value="3.514893431906277E-10" />
+      <entry key="M5" value="1.6533502480377212E-4" />
+      <entry key="M10" value="0.01285826678848174" />
+      <entry key="M15" value="0.054885162573942284" />
+      <entry key="M30" value="0.23427582584198128" />
+      <entry key="H1" value="0.48402048080838633" />
+      <entry key="H2" value="0.6957158046274251" />
+      <entry key="H4" value="0.8340958006292948" />
+      <entry key="D1" value="0.970217988429232" />
+      <entry key="W1" value="0.9956900997647643" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.9085114483200556" />
+      <entry key="MS500" value="4.664522452908258" />
+      <entry key="S2" value="9.491800344274397" />
+      <entry key="S5" value="11.857424088954213" />
+      <entry key="S10" value="12.861247112270096" />
+      <entry key="S30" value="13.604232385386435" />
+      <entry key="S60" value="13.800013737076428" />
+      <entry key="M2" value="13.89962757735324" />
+      <entry key="M5" value="14.151925416384097" />
+      <entry key="M10" value="16.31921939935195" />
+      <entry key="M15" value="19.810590494723236" />
+      <entry key="M30" value="29.699906569303366" />
+      <entry key="H1" value="40.78986879064658" />
+      <entry key="H2" value="49.35931377986739" />
+      <entry key="H4" value="54.7303073867362" />
+      <entry key="D1" value="59.886121022951" />
+      <entry key="W1" value="60.839093872195015" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JracKS1H5AB3nccIXu5ErBrI94" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Trading-Engine.executor": "Run",
+    "Gradle.TradingEngineApplicationTests.executor": "Run",
+    "Gradle.TradingServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.TradingEngineApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc23e3e-fb75-4239-93a5-bb616a4073db" name="Changes" comment="" />
+      <created>1790421722989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790421722989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
